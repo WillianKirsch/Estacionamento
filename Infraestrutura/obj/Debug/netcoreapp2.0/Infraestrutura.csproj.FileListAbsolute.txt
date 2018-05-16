@@ -1,0 +1,12 @@
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\bin\Debug\netcoreapp2.0\Infraestrutura.deps.json
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\bin\Debug\netcoreapp2.0\Infraestrutura.dll
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\bin\Debug\netcoreapp2.0\Infraestrutura.pdb
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.xml
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.AssemblyInfo.cs
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.csproj.CopyComplete
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.dll
+C:\Users\FlashThink\GIT\Estacionamento\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.pdb

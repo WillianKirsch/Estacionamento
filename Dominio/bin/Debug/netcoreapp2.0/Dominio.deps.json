@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "5d4c76e11beee1649d5ee48959350463ef612246"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Dominio/1.0.0": {
+        "dependencies": {
+          "Infraestrutura": "1.0.0",
+          "Tango": "2.0.0.1",
+          "Transporte": "1.0.0"
+        },
+        "runtime": {
+          "Dominio.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Tango/2.0.0.1": {
+        "runtime": {
+          "lib/net45/Tango.dll": {}
+        }
+      },
+      "Infraestrutura/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "Infraestrutura.dll": {}
+        }
+      },
+      "Transporte/1.0.0": {
+        "runtime": {
+          "Transporte.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "Tango/2.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZHWXTi5t8KENPVLJKUwce4Vo+QijXC7uUaRAOyo5HLAZGeY4UGaigAtWGhXhNQu+ueO/rrxB4s1I5XjQbe+GSg==",
+      "path": "tango/2.0.0.1",
+      "hashPath": "tango.2.0.0.1.nupkg.sha512"
+    },
+    "Infraestrutura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Transporte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
